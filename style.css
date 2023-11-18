@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	background-color: gray;
+}
+#logo {
+	font-size: 100px;
+}
+#startButton {
+	width: 250px;
+	height: 80px;
+	background: green;
+	color: lightblue;
+}
+#jokeDisplay {
+	font-size: 75px;
+}
